@@ -117,7 +117,7 @@ var radio = new Radio([
   {
     freq: '81.4',
     title: "Groove Salad",
-    src: ['http://ice1.somafm.com/groovesalad-128-mp3', 'http://ice1.somafm.com/groovesalad-128-aac'],
+    src: ['http://121.200.62.53:1021/;stream.mp3', 'http://121.200.62.53:1021/;stream.mp3'],
     howl: null
   },
   {
